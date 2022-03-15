@@ -8,6 +8,7 @@ I'm using this repo as a place to store my code as I work through the Corey Scha
 - Part 2 - Templates: https://www.youtube.com/watch?v=QnDWIZuWYW0
 - Part 3 - Forms and User Input: https://www.youtube.com/watch?v=UIJKdCIEXUQ
 - Part 4 - Database with Flask-SQLAlchemy: https://www.youtube.com/watch?v=cYWiDiIUxQc
+- Part 5 - Package Structure: https://www.youtube.com/watch?v=44PvX0Yv368
 
 ## Testing the DB in Part 4
 
